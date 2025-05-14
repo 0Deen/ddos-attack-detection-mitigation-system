@@ -1,4 +1,6 @@
-# 🛡️ SDN-Based Real-Time DDoS Detection and Mitigation System
+#  Dev Deen
+
+# SDN-Based Real-Time DDoS Detection and Mitigation System
 
 This project uses Software-Defined Networking (SDN) and machine learning to detect and mitigate DDoS attacks in real-time. Built with **Mininet** and a **RYU controller**, it leverages flow statistics to classify traffic and take immediate mitigation action.
 
